@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://erdoganabaci.github.io/csb-07upp/static/css/main.765b17fe.chunk.css",
+    "main.js": "https://erdoganabaci.github.io/csb-07upp/static/js/main.b8d154ad.chunk.js",
+    "main.js.map": "https://erdoganabaci.github.io/csb-07upp/static/js/main.b8d154ad.chunk.js.map",
+    "runtime-main.js": "https://erdoganabaci.github.io/csb-07upp/static/js/runtime-main.70816cd3.js",
+    "runtime-main.js.map": "https://erdoganabaci.github.io/csb-07upp/static/js/runtime-main.70816cd3.js.map",
+    "static/js/2.98b7e7a4.chunk.js": "https://erdoganabaci.github.io/csb-07upp/static/js/2.98b7e7a4.chunk.js",
+    "static/js/2.98b7e7a4.chunk.js.map": "https://erdoganabaci.github.io/csb-07upp/static/js/2.98b7e7a4.chunk.js.map",
+    "static/js/3.f9eb3d8b.chunk.js": "https://erdoganabaci.github.io/csb-07upp/static/js/3.f9eb3d8b.chunk.js",
+    "static/js/3.f9eb3d8b.chunk.js.map": "https://erdoganabaci.github.io/csb-07upp/static/js/3.f9eb3d8b.chunk.js.map",
+    "index.html": "https://erdoganabaci.github.io/csb-07upp/index.html",
+    "static/css/main.765b17fe.chunk.css.map": "https://erdoganabaci.github.io/csb-07upp/static/css/main.765b17fe.chunk.css.map",
+    "static/js/2.98b7e7a4.chunk.js.LICENSE.txt": "https://erdoganabaci.github.io/csb-07upp/static/js/2.98b7e7a4.chunk.js.LICENSE.txt",
+    "static/js/3.f9eb3d8b.chunk.js.LICENSE.txt": "https://erdoganabaci.github.io/csb-07upp/static/js/3.f9eb3d8b.chunk.js.LICENSE.txt",
+    "static/media/bell-ring.95d42481.mp3": "https://erdoganabaci.github.io/csb-07upp/static/media/bell-ring.95d42481.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70816cd3.js",
+    "static/js/2.98b7e7a4.chunk.js",
+    "static/css/main.765b17fe.chunk.css",
+    "static/js/main.b8d154ad.chunk.js"
+  ]
+}
